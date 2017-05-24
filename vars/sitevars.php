@@ -1,5 +1,5 @@
 <?php
-
+/*Aangepast*/
 $root = $_SERVER['DOCUMENT_ROOT'];
 
 $root .= "/12732Project15/";
